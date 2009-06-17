@@ -10,6 +10,8 @@
 
 zotero获取文献非常方便，但参考文献的格式很难调，默认的插入格式是普通字体格式，不是上标。zotero通过读取一个定义文献格式的xml文件，自动生成文献列表，我用的是IEEE的格式，与中文的一般要求比较接近，但还需要手动调整很多，比较麻烦。实际上，xml文件的格式定义是可以手动修改的，就像Linux一样，应该有很强的自定义能力，官网上有介绍，我没有去研究。
 
+有问题可以给我发邮件。
+
  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
