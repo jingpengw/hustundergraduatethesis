@@ -1,6 +1,5 @@
-#summary One-sentence summary of this page.
 #labels open
-
+系统和环境介绍
 = Introduction =
 
 这是我根据自己本科毕业设计论文修改来的，主要参考了广东省 Linux 公共服务与技术支持中心，刘柱垣的《简简单单用 OpenOffice 写书》。花了很多功夫修改，调整格式。
